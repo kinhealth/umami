@@ -54,5 +54,16 @@ export async function generateMetadata(): Promise<Metadata> {
       template: '%s | Kin Analytics GDPR',
       default: 'Kin Analytics GDPR',
     },
+    openGraph: {
+      siteName: 'Kin Analytics GDPR',
+      title: 'Kin Analytics GDPR',
+      description: 'Kin Analytics GDPR is a simple, fast, privacy-focused website analytics alternative to Google Analytics.',
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary',
+      title: 'Kin Analytics GDPR',
+      description: 'Kin Analytics GDPR is a simple, fast, privacy-focused website analytics alternative to Google Analytics.',
+    },
   };
 }
