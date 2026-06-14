@@ -78,7 +78,7 @@ export function MobileNav() {
       </MobileMenuButton>
       <Row alignItems="center" justifyContent="center" flexGrow={1}>
         <IconLabel icon={<Logo />} style={{ width: 'auto' }}>
-          <Text weight="bold">kin analytics GDPR</Text>
+          <Text weight="bold">Kin Analytics GDPR</Text>
         </IconLabel>
       </Row>
     </Grid>

@@ -1,6 +1,6 @@
 {
-  "name": "Umami",
-  "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+  "name": "Kin Analytics GDPR",
+  "description": "Kin Analytics GDPR is a simple, fast, privacy-focused website analytics alternative to Google Analytics.",
   "keywords": ["analytics", "charts", "statistics", "web-analytics"],
   "website": "https://umami.is",
   "repository": "https://github.com/umami-software/umami",

@@ -93,7 +93,7 @@ export function SideNav(props: any) {
         <Row paddingX="3" alignItems="center" justifyContent="space-between" flexGrow="1">
           {!isCollapsed && (
             <IconLabel icon={<Logo />}>
-              <Text weight="bold">kin analytics GDPR</Text>
+              <Text weight="bold">Kin Analytics GDPR</Text>
             </IconLabel>
           )}
           <PanelButton />
